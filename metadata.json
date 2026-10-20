@@ -1,0 +1,6 @@
+{
+  "name": "เซปักตะกร้อ คิงส์ 3D - Sepak Takraw King 3D",
+  "description": "เกมเตะตะกร้อ 3D ฟิสิกส์สมจริง แข่งข้ามตาข่าย เดาะตะกร้อ และฟาดซันแบ็คสไปค์สุดมันส์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  html, body, #root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+    background-color: #0d1117;
+    font-family: 'Kanit', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-sport {
+  font-family: 'Chakra Petch', 'Kanit', sans-serif;
+}
